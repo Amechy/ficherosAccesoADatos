@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".EscribirExterna" />
+        <activity android:name=".EscribirInterna" />
+        <activity android:name=".Codificacion" />
+        <activity android:name=".LeerFichero"></activity>
     </application>
 
 </manifest>
